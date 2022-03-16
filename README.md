@@ -6,8 +6,10 @@ This repository contains the code, report and results of the project in the cour
 To create a dataset for this project have been used data from Sociopatterns community.
 
 ## Objective
-The goal of the project is to develop a GNN based model that classify each graph in the dataset in the correct class.
+
 <img width="417" alt="binary_gc" src="https://user-images.githubusercontent.com/51090995/158566343-8ef899bf-1226-4379-994b-5effde790335.png">
+
+The goal of the project is to develop a GNN based model that classify each graph in the dataset in the correct class.
 
 
 ## Results
